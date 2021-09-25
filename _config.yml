@@ -192,24 +192,25 @@ collections:
 # Defaults
 defaults:
   #_posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      output: false
+  #- scope:
+   #   path: ""
+    #  type: posts
+      
+    #values:
+    #  layout: single
+     # author_profile: true
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
+      #output: false
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  #- scope:
+   #   path: ""
+    #  type: pages
+    #values:
+     # layout: single
+      #author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -229,23 +230,23 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      comment: false
+  #- scope:
+   #   path: ""
+    #  type: portfolio
+    #values:
+     # layout: single
+      #author_profile: false
+      #share: false
+      #comment: false
       #output:false
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: false
-      share: false
+  #- scope:
+   #   path: ""
+    #  type: talks
+    #values:
+     # layout: talk
+      #author_profile: false
+      #share: false
       
 
 # Sass/SCSS
