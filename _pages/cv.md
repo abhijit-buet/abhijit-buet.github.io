@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Electrical Engineering, Bangladesh University of Engineering and Technology, 2014-2018
-    CGPA: 3.59 out of 4.00
-* M.Sc in Electrical Engineering, University of Texas Rio Grande Valley, 2019-2021
-    CGPA: 4.00 out of 4.00
+* B.Sc. in Electrical Engineering, Bangladesh University of Engineering and Technology, 2014-2018\
+    CGPA: 3.59 out of 4.00\
+* M.Sc in Electrical Engineering, University of Texas Rio Grande Valley, 2019-2021\
+    CGPA: 4.00 out of 4.00\
 
 Work experience
 ======
