@@ -32,11 +32,7 @@ Research experience
   * A Kernel Low Rank to Reconstruct MRI from Undersampled Data
   * Supervisor: Dr. Ukash Nakarmi
 
-* Spring 202: Graduate Research Assistant
-  * University of Texas Rio Grande Valley
-  * A Deep Learning Framework for Pedestrian Flow Detection
-  * Supervisor: Dr. Hongkai Yu
-  
+
 Skills
 ======
 * Skill 1
