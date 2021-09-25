@@ -14,27 +14,3 @@ My research interest lies broadly in the field of Computer vision and Deep learn
 
 
 
-Education
-======
-* University of Texas Rio Grande Valley, 2019-2021\
-    M.Sc in Electrical Engineering, \
-    CGPA: 4.00 out of 4.00
-
-* Bangladesh University of Engineering and Technology, 2014-2018\
-    B.Sc. in Electrical Engineering, \
-    CGPA: 3.59 out of 4.00
-
-
-Research experience
-======
-* Fall 2019-Spring 2021: Graduate Research Assistant
-  * University of Texas Rio Grande Valley
-  * A Deep Learning Framework for Pedestrian Flow Detection
-  * Supervisor: Dr. Hongkai Yu
-
-* Spring:2020-Present: Research Collaboration
-  * University of Arkansas
-  * A Kernel Low Rank to Reconstruct MRI from Undersampled Data
-  * Supervisor: Dr. Ukash Nakarmi
-
-
