@@ -14,5 +14,5 @@ My research interest lies broadly in the field of Computer vision and Deep learn
 
 
 
-title: "Education"
+
 
