@@ -27,7 +27,7 @@ Research experience
   * A Deep Learning Framework for Pedestrian Flow Detection
   * Supervisor: Dr. Hongkai Yu
 
-*  Research Collaboration
+*  Spring:2020-Present: Research Collaboration
   * University of Arkansas
   * A Kernel Low Rank to Reconstruct MRI from Undersampled Data
   * Supervisor: Dr. Ukash Nakarmi
