@@ -31,6 +31,11 @@ Research experience
   * University of Arkansas
   * A Kernel Low Rank to Reconstruct MRI from Undersampled Data
   * Supervisor: Dr. Ukash Nakarmi
+
+* Fall 2019-Spring 2021: Graduate Research Assistant
+  * University of Texas Rio Grande Valley
+  * A Deep Learning Framework for Pedestrian Flow Detection
+  * Supervisor: Dr. Hongkai Yu
   
 Skills
 ======
