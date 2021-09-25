@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abhijit Baul"
-  avatar           : "abhi_30.jpg"
+  avatar           : #"abhi_30.jpg"
   bio              : "Hi, I am Abhijit. I am from Bangladesh"
   location         : "Location"
   employer         :
