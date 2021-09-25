@@ -20,17 +20,17 @@ Education
     CGPA: 3.59 out of 4.00
 
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019-Spring 2021: Graduate Research Assistant
+  * University of Texas Rio Grande Valley
+  * A Deep Learning Framework for Pedestrian Flow Detection
+  * Supervisor: Dr. Hongkai Yu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  Research Collaboration
+  * University of Arkansas
+  * A Kernel Low Rank to Reconstruct MRI from Undersampled Data
+  * Supervisor: Dr. Ukash Nakarmi
   
 Skills
 ======
