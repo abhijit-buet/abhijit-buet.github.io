@@ -85,7 +85,7 @@ author:
   bio              : "Hi, This is Abhijit"
   location         : "Edinburg, Texas"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-kDqU6oAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -192,16 +192,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+ # - scope:
+  #    path: ""
+   #   type: posts
+    #values:
+     # layout: single
+      #author_profile: true
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
   # _pages
   - scope:
       path: ""
@@ -228,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+   #   path: ""
+    #  type: portfolio
+    #values:
+    #  layout: single
+    #  author_profile: true
+     # share: true
+      #comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+   #   path: ""
+    #  type: talks
+    #values:
+     # layout: talk
+      #author_profile: true
+      #share: true
 
 # Sass/SCSS
 sass:
