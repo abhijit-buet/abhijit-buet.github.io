@@ -36,3 +36,7 @@ Research experience
   * University of Arkansas
   * A Kernel Low Rank Method TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI
   * Supervisor: Dr. Ukash Nakarmi
+
+Publications
+======
+* Abhijit Baul, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, <b>"SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGHRESOLUTION 3D DIFFUSION MRI", 
