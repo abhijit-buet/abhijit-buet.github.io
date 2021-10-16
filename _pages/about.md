@@ -44,3 +44,5 @@ Publications
 * Abhijit Baul, Jingru Zhang, Lingtao Wu, Hongkai Yu, Weidong Kuang, <b>"Learning to Detect Pedestrian Flow in Traffic
 Intersections from Synthetic Data" </b>, 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021), <b>Accepted</b> (h5 index - 49). <b> <a href="https://www.w3schools.com">Paper Link</a> </b>
 
+* W. Kuang, Abhijit Baul,<b> “A Real-time Attendance System Using Deep-learning Face Recognition”</b>,
+ASEE Virtual Annual Conference Content Access, June, 2020. <b> <a href="https://peer.asee.org/a-real-time-attendance-system-using-deep-learning-face-recognition">Paper Link</a> </b>
