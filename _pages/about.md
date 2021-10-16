@@ -39,4 +39,8 @@ Research experience
 
 Publications
 ======
-* Abhijit Baul, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, <b>"SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGHRESOLUTION 3D DIFFUSION MRI", 
+* Abhijit Baul, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, <b>"SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGHRESOLUTION 3D DIFFUSION MRI"<b>, Under Review.
+
+* Abhijit Baul, Jingru Zhang, Lingtao Wu, Hongkai Yu, Weidong Kuang, <b>"Learning to Detect Pedestrian Flow in Traffic
+Intersections from Synthetic Data" <b>, 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021), <b>accpeted<b> (h5 index - 49).
+
