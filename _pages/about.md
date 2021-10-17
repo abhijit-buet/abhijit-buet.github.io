@@ -69,3 +69,13 @@ The dataset contains 600 nuclei images for training. Trained a pre-trained U-NET
 IOU(intersection over union) of 0.52(Top 25%). <b> <a href="https://github.com/abhijit-buet/Nuclei-segmentation-from-microscopic-images">Project Link</a> </b>
 
 * <b> Gesture Controlled Wheelchair </b>: We have created a Gesture Controlled Wheelchair that uses accelerometer to sense the movement direction from the hand of a disabled person. The signal was received by a RF receiver and the wheelchair was controlled according to the movement.
+
+
+Professional Experience
+======
+* Graduate Teaching Assistant - Fall 2020
+  * University of Texas Rio Grande Valley
+  * Machine Learning(ELEE 4333)
+∗ Graduate Teaching Assistant - Spring 2021
+  * Probability and Statistics(ELEE 3340)
+  
