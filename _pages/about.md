@@ -52,13 +52,13 @@ Projects
 * <b> CVPR 2021 VizWiz Challenge (Visual Question Answering and Answerability)</b>:
 
 
-* <b>SIIM ISIC Melanoma Classification 2020 </b>: The task required to predict from a patient’s dermatoscopy
+* <b> SIIM ISIC Melanoma Classification 2020 </b>: The task required to predict from a patient’s dermatoscopy
 information, whether the region is malignant or benign. The dataset contains dermatoscopy information of about
 33,126 patients including images, age, gender, and other information. Trained a deep CNN architecture that uses
 EfficientNet as a feature extractor. Both visual and meta-data features were fused in the final layers. Achieved an
 accuracy of 87%(Top 20% on the Leaderboard).<b> <a href="https://github.com/abhijit-buet/SIIM-ISIC-Melanoma-Classification">Project Link</a> </b>
 
-*<b> Tweet Sentiment Extraction </b>: The dataset contains 2,74,481 tweets and their corresponding sentiment. The task
+* <b> Tweet Sentiment Extraction </b>: The dataset contains 2,74,481 tweets and their corresponding sentiment. The task
 required to propose a framework that would find out the key part of the sentence responsible for the sentiment.
 Trained a pre-trained BERT model as a question-answering format and achieved a Jaccard score of 0.71(Top 18%
 on the Leaderboard). Github
@@ -67,7 +67,4 @@ on the Leaderboard). Github
 The dataset contains 600 nuclei images for training. Trained a pre-trained U-NET and achieved a mean
 IOU(intersection over union) of 0.52(Top 25%). Github
 
-* <b> Continuous Emotion Prediction </b>: The task required to predict three emotion dimensions - Arousal, Valence and
-Liking from audio, video, and text data of conversations. Proposed a Deep Multitask Learning framework using
-Bidirectional LSTM-RNN and trained it on Bag-of-Words features. Achieved 10% improvement from the
-baseline. Github
+
