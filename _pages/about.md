@@ -62,12 +62,10 @@ accuracy of 87%(Top 20% on the Leaderboard).<b> <a href="https://github.com/abhi
 * <b> Tweet Sentiment Extraction </b>: The dataset contains 2,74,481 tweets and their corresponding sentiment. The task
 required to propose a framework that would find out the key part of the sentence responsible for the sentiment.
 Trained a pre-trained BERT model as a question-answering format and achieved a Jaccard score of 0.71(Top 18%
-on the Leaderboard). Github
+on the Leaderboard). <b> <a href="https://github.com/abhijit-buet/Tweet-Sentiment-Extraction">Project Link</a> </b>
 
 * <b> Nuclei Segmentation From Microscopic Images </b>: The task required to segment microscopic nuclei images.
 The dataset contains 600 nuclei images for training. Trained a pre-trained U-NET and achieved a mean
-IOU(intersection over union) of 0.52(Top 25%). Github
+IOU(intersection over union) of 0.52(Top 25%). <b> <a href="https://github.com/abhijit-buet/Nuclei-segmentation-from-microscopic-images">Project Link</a> </b>
 
-* <b> Gesture Controlled Wheelchair </b>:
-
-* <b> Smart Health Monitoring System </b>:
+* <b> Gesture Controlled Wheelchair </b>: We have created a Gesture Controlled Wheelchair that uses accelerometer to sense the movement direction from the hand of a disabled person. The signal was received by a RF receiver and the wheelchair was controlled according to the movement.
