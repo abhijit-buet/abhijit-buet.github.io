@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* Abhijit Baul*, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, “SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI”, Under Review. <b> <a href="https://www.w3schools.com">Paper Link</a> </b>
+* Abhijit Baul*, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, “SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI”, Under Review. <b> <a href="https://drive.google.com/file/d/1cZMwD9qnPEN7KL3jXZ0UgjKqIiQAFWOU/view?usp=sharing">Paper Link</a> </b>
 
 Preview
 ===
@@ -19,3 +19,18 @@ for meniscus dMRI, 3) Studied the efficiency of Kernel-lowrank technique in meni
 
 
 
+
+
+
+* Abhijit Baul*, Jingru Zhang, Lingtao Wu, Hongkai Yu, Weidong Kuang, <b>"Learning to Detect Pedestrian Flow in Traffic
+Intersections from Synthetic Data" </b>, 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021), <b>Accepted</b> (h5 index - 49). <b> <a href="https://drive.google.com/file/d/12JTaBG-rgahMRnsL6DuV1MeA8U7kuP4p/view?usp=sharing">Paper Link</a> </b>
+
+
+
+
+
+
+
+
+* W. Kuang, Abhijit Baul*,<b> “A Real-time Attendance System Using Deep-learning Face Recognition”</b>,
+ASEE Virtual Annual Conference Content Access, June, 2020. <b> <a href="https://peer.asee.org/a-real-time-attendance-system-using-deep-learning-face-recognition">Paper Link</a> </b>
