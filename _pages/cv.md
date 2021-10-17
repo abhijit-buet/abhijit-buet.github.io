@@ -56,9 +56,7 @@ Intersections from Synthetic Data" </b>, 24th IEEE International Conference on I
 
 
 
-
-    
 * W. Kuang, Abhijit Baul*,<b> “A Real-time Attendance System Using Deep-learning Face Recognition”</b>,
 ASEE Virtual Annual Conference Content Access, June, 2020. <b> <a href="https://peer.asee.org/a-real-time-attendance-system-using-deep-learning-face-recognition">Paper Link</a> </b>
    
-<b>Overview</b>: Here, we have collected a face dataset from the students, Used that dataset to train a Face detection architecture, then used that to take attendance.
+  * <b>Overview</b>: Here, we have collected a face dataset from the students, Used that dataset to train a Face detection architecture, then used that to take attendance.
