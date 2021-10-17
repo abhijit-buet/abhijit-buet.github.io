@@ -16,7 +16,7 @@ that do not require low-resolution images, 2) Acquired High Resolution ground tr
 and investigated the effect of i) undersampling in k-space only and ii) undersampling in both k-space and diffusion direction
 for meniscus dMRI, 3) Studied the efficiency of Kernel-lowrank technique in meniscus diffusion MRI. 
 
-<img src="https://github.com/abhijit-buet/abhijit-buet.github.io/blob/master/_pages/web_1.jpg" class="centerImage" width="360" height = "256" >
+<img src="https://github.com/abhijit-buet/abhijit-buet.github.io/blob/master/web_1.jpg" class="centerImage" width="360" height = "256" >
 
 
 
