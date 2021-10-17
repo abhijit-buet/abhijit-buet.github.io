@@ -76,6 +76,7 @@ Professional Experience
 * Graduate Teaching Assistant - Fall 2020
   * University of Texas Rio Grande Valley
   * Machine Learning(ELEE 4333)
-∗ Graduate Teaching Assistant - Spring 2021
+
+* Graduate Teaching Assistant - Spring 2021
   * Probability and Statistics(ELEE 3340)
   
