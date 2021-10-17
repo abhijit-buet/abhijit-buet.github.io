@@ -50,7 +50,7 @@ ASEE Virtual Annual Conference Content Access, June, 2020. <b> <a href="https://
 Projects
 ======
 * <b> CVPR 2021 VizWiz Challenge (Visual Question Answering and Answerability)</b>: The VQA challenge is divided into two parts - i) Predicting the answer to a visual question, ii) Predicting whether a question can be answered or not. Visual features were extracted using a pretrained ResNet-152 and Input Questions are tokenized, embedded and encoded with an LSTM.
-Visual features and encoded questions awere combined and used to create multiple attention maps over image features. The attended image features were fed to a classifier that outputs probabilities over the answers. The submission ranked 9th in the leaderboard. <b> <a href="https://github.com/abhijit-buet/VizWiz-Visua-Question-Answering-2021">Project Link</a> </b>
+Visual features and encoded questions awere combined and used to create multiple attention maps over image features. The attended image features were fed to a classifier that outputs probabilities over the answers. The submission ranked 5th in the leaderboard. <b> <a href="https://github.com/abhijit-buet/VizWiz-Visua-Question-Answering-2021">Project Link</a> </b>
 
 
 * <b> SIIM ISIC Melanoma Classification 2020 </b>: The task required to predict from a patient’s dermatoscopy
