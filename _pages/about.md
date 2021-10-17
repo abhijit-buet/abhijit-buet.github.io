@@ -68,7 +68,7 @@ on the Leaderboard). <b> <a href="https://github.com/abhijit-buet/Tweet-Sentimen
 The dataset contains 600 nuclei images for training. Trained a pre-trained U-NET and achieved a mean
 IOU(intersection over union) of 0.52(Top 25%). <b> <a href="https://github.com/abhijit-buet/Nuclei-segmentation-from-microscopic-images">Project Link</a> </b>
 
-* <b> Gesture Controlled Wheelchair </b>: We have created a Gesture Controlled Wheelchair that uses accelerometer to sense the movement direction from the hand of a disabled person. The signal was received by a RF receiver and the wheelchair was controlled according to the movement.
+* <b> Gesture Controlled Wheelchair </b>: We have created a Gesture Controlled Wheelchair that uses accelerometer to sense the movement direction from the hand of a disabled person. The signal was transmitted and received by a RF-pair transmitter-receiver and the wheelchair was controlled by an arduino according to the movement.
 
 
 Professional Experience
@@ -82,7 +82,7 @@ Professional Experience
 Skills
 ======
 * Programming Languages: Python, Java, C, C++, Matlab, Verilog HDL, Assembly language
-* Deep Learning Frameworks: Pytorch, Tensorflow, Keras, Scikit-learn, Transfer Learning, Attention mechanisms, LSTM, BERT, BioBERT, DC-GAN, WGAN, Cycle GAN, AlexNet, ResNet, VGG, YOLOv3
+* Deep Learning Frameworks: Pytorch, Tensorflow, Keras, Scikit-learn, Transfer Learning, Attention mechanisms, LSTM, BERT,      BioBERT, DC-GAN, WGAN, Cycle GAN, AlexNet, ResNet, VGG, YOLOv3
 * Design Tools: PSPICE, Cadence Virtuoso, Proteus, Quartus, Arduino, Android studio
 * MRI Toolbox: BART, DSI Studio, MRTrix
 
