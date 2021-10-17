@@ -49,11 +49,11 @@ ASEE Virtual Annual Conference Content Access, June, 2020. <b> <a href="https://
 
 Projects
 ======
-* CVPR 2021 VizWiz Challenge (Visual Question Answering and Answerability):
+* <b> CVPR 2021 VizWiz Challenge (Visual Question Answering and Answerability)</b>:
 
 
 * <b>SIIM ISIC Melanoma Classification 2020 </b>: The task required to predict from a patient’s dermatoscopy
 information, whether the region is malignant or benign. The dataset contains dermatoscopy information of about
 33,126 patients including images, age, gender, and other information. Trained a deep CNN architecture that uses
 EfficientNet as a feature extractor. Both visual and meta-data features were fused in the final layers. Achieved an
-accuracy of 87%(Top 20% on the Leaderboard). <a href="https://github.com/abhijit-buet/SIIM-ISIC-Melanoma-Classification">Project Link</a> </b>
+accuracy of 87%(Top 20% on the Leaderboard).<b> <a href="https://github.com/abhijit-buet/SIIM-ISIC-Melanoma-Classification">Project Link</a> </b>
