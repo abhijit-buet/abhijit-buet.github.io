@@ -82,7 +82,7 @@ Professional Experience
 Skills
 ======
 * Programming Languages: Python, Java, C, C++, Matlab, Verilog HDL, Assembly language
-* Machine Learning Frameworks: Pytorch, Tensorflow, Keras, Scikit-learn
+* Deep Learning Frameworks: Pytorch, Tensorflow, Keras, Scikit-learn, Transfer Learning, Attention mechanisms, LSTM, BERT, BioBERT, DC-GAN, WGAN, Cycle GAN, AlexNet, ResNet, VGG, YOLOv3
 * Design Tools: PSPICE, Cadence Virtuoso, Proteus, Quartus, Arduino, Android studio
 * MRI Toolbox: BART, DSI Studio, MRTrix
 
