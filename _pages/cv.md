@@ -11,8 +11,7 @@ redirect_from:
 * Abhijit Baul*, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, “SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI”, Under Review. <b> <a href="https://drive.google.com/file/d/1cZMwD9qnPEN7KL3jXZ0UgjKqIiQAFWOU/view?usp=sharing">Paper Link</a> </b>
 
   * <b>Overview</b>:
-The reconstruction of MRI from undersampled data is ill-posed and results in aliased images. Similar to low rank and sparse methods, that reconstruct images from umdersampled k-space data, the Kernel Low Rank (KLR) also maps the data into a low dimensional embedding but unlike in low rank and sparse techniques, KLR applies a nonlinear transformation to define the new representation space and enforces low rankness in the kernel space. Our main contributions are : 1) Developed a Kernel Low Rank method
-that do not require low-resolution images, 2) Acquired High Resolution ground truth data with several diffusion directions
+The reconstruction of MRI from undersampled data is ill-posed and results in aliased images. Similar to low rank and sparse methods, that reconstruct images from umdersampled k-space data, the Kernel Low Rank (KLR) also maps the data into a low dimensional embedding but unlike in low rank and sparse techniques, KLR applies a nonlinear transformation to define the new representation space and enforces low rankness in the kernel space. Our main contributions are : 1) Developed a Kernel Low Rank method that do not require low-resolution images, 2) Acquired High Resolution ground truth data with several diffusion directions
 and investigated the effect of i) undersampling in k-space only and ii) undersampling in both k-space and diffusion direction
 for meniscus dMRI, 3) Studied the efficiency of Kernel-lowrank technique in meniscus diffusion MRI. 
 
@@ -27,19 +26,9 @@ Intersections from Synthetic Data" </b>, 24th IEEE International Conference on I
 
 
   * <b>Overview</b>: The goal of this research project was to detect pedestrian flow at the traffic intersection. As there was no available dataset to accomplish the task, we have created a synthetic pedestrian dataset using GTA V video game. 
- Then we performed domain adaptaion using Cycle GAN, translating the synthetic images to photo-realistic images. In the end, we finetuned our PedestrianNet using a small amount of real data.
+ Then we performed domain adaptaion using Cycle GAN, translating the synthetic images to photo-realistic images. In the end, we finetuned our PedestrianNet using a small amount of real data. Our proposed PedestrianNet is a two branch CNN network where we have used AlexNet as feature extractor. We required two branch as the input consists of image frames and their corresponding optical flow. Here, we have tried to detect pedestrian flow in three different direction - from left to right, from right to left and combined number of pedestrian. We have compared our result with YOLO V3 as a human detector. Mean Absolute Error(MAE) and Mean Square Error(MSE) were used as evaluation metric.
    
-   
-   Our proposed PedestrianNet is a two branch CNN network where we have used AlexNet as feature extractor.
-   We required two branch as the input consists of image frames and their corresponding optical flow.
-
   
-    
-  
-    
-   Here, we have tried to detect pedestrian flow in three different direction - from left to right, from right to left and combined number of pedestrian. We have compared our result with YOLO V3 as a human detector. Mean Absolute Error(MAE) and Mean Square Error(MSE) were used as evaluation metric.
-   
-  # <img src="https://github.com/abhijit-buet/Images/blob/main/Capture.PNG" width="360" height = "256"> 
 
 
 
