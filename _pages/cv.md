@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,58 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+* Abhijit Baul*, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, “SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI”, Under Review. <b> <a href="https://www.w3schools.com">Paper Link</a> </b>
 
-Education
-======
-* University of Texas Rio Grande Valley, 2019-2021\
-    M.Sc in Electrical Engineering, \
-    CGPA: 4.00 out of 4.00
-
-* Bangladesh University of Engineering and Technology, 2014-2018\
-    B.Sc. in Electrical Engineering, \
-    CGPA: 3.59 out of 4.00
+Preview
+===
+The reconstruction of MRI from such undersampled data is ill-posed and results in aliased images. Similar to low rank and sparse methods, that reconstruct images from umdersampled k-space data, the Kernel Low Rank (KLR) also maps the data into a low dimensional embedding but unlike in low rank and sparse techniques, KLR applies a nonlinear transformation to define the new representation space and enforces low rankness in the kernel space. Our main contributions are : 1) Developed a Kernel Low Rank method
+that do not require low-resolution images, 2) Acquired High Resolution ground truth data with several diffusion directions
+and investigated the effect of i) undersampling in k-space only and ii) undersampling in both k-space and diffusion direction
+for meniscus dMRI, 3) Studied the efficiency of Kernel-lowrank technique in meniscus diffusion MRI. 
 
 
-Research experience
-======
-* Fall 2019-Spring 2021: Graduate Research Assistant
-  * University of Texas Rio Grande Valley
-  * A Deep Learning Framework for Pedestrian Flow Detection
-  * Supervisor: Dr. Hongkai Yu
 
-* Spring:2020-Present: Research Collaboration
-  * University of Arkansas
-  * A Kernel Low Rank to Reconstruct MRI from Undersampled Data
-  * Supervisor: Dr. Ukash Nakarmi
-
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
