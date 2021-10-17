@@ -26,10 +26,7 @@ Intersections from Synthetic Data" </b>, 24th IEEE International Conference on I
 
 
 
-<b>Overview</b>:
-
-
- The goal of this research project was to detect pedestrian flow at the traffic intersection. As there was no available dataset to accomplish the task, we have created a synthetic pedestrian dataset using GTA V video game. 
+  * <b>Overview</b>: The goal of this research project was to detect pedestrian flow at the traffic intersection. As there was no available dataset to accomplish the task, we have created a synthetic pedestrian dataset using GTA V video game. 
  Then we performed domain adaptaion using Cycle GAN, translating the synthetic images to photo-realistic images. In the end, we finetuned our PedestrianNet using a small amount of real data. Below is our proposed framework,  
  
   <img src="https://github.com/abhijit-buet/Images/blob/main/Summary.PNG"  width="360" height = "256">
