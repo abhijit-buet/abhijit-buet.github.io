@@ -79,3 +79,35 @@ Professional Experience
   * Graduate Teaching Assistant - Spring 2021
   * Probability and Statistics(ELEE 3340)
   
+Skills
+======
+* Programming Languages: Python, Java, C, C++, Matlab, Verilog HDL, Assembly language
+* Machine Learning Frameworks: Pytorch, Tensorflow, Keras, Scikit-learn
+* Design Tools: PSPICE, Cadence Virtuoso, Proteus, Quartus, Arduino, Android studio
+* MRI Toolbox: BART, DSI Studio, MRTrix
+
+
+Review
+======
+* IEEE Conference on Intelligent Transportation System (ITSC 2021)
+
+Relevant Courses
+======
+* Graduate Level: Machine Learning, Foundation of Softwares, Algorithm and Data Structure, Computer Architecture, Microprocessor, Biomedical
+Signal Processing
+
+* Undergraduate Level: Linear Algebra, Probability and Statistics, Calculus I, Calculus II, Digital Signal
+Processing
+
+
+Scholarship and Awards
+======
+* Presidential Graduate Research Assistantship, awarded by University of Texas Rio Grande Valley 2019–2021
+* I am a Buddy Scholar, awarded by University of Texas Rio Grande Valley,
+  for assisting and mentoring newly admitted graduate students 2020–2021
+* Dean’s List Award, awarded for attaining CGPA greater than 3.75 in the year 2014-2015 2015
+* Scholarship, Higher Secondary Certificate Exam 2013
+* Scholarship, Secondary Certificate Exam 2011
+
+
+
