@@ -73,10 +73,9 @@ IOU(intersection over union) of 0.52(Top 25%). <b> <a href="https://github.com/a
 
 Professional Experience
 ======
-* Graduate Teaching Assistant - Fall 2020
-  * University of Texas Rio Grande Valley
+* University of Texas Rio Grande Valley 
+  * Graduate Teaching Assistant - Fall 2020
   * Machine Learning(ELEE 4333)
-
-* Graduate Teaching Assistant - Spring 2021
+  * Graduate Teaching Assistant - Spring 2021
   * Probability and Statistics(ELEE 3340)
   
