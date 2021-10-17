@@ -67,4 +67,6 @@ on the Leaderboard). Github
 The dataset contains 600 nuclei images for training. Trained a pre-trained U-NET and achieved a mean
 IOU(intersection over union) of 0.52(Top 25%). Github
 
+* <b> Gesture Controlled Wheelchair </b>:
 
+* <b> Smart Health Monitoring System </b>:
