@@ -89,7 +89,7 @@ Skills
 
 Review
 ======
-* IEEE Conference on Intelligent Transportation System (ITSC 2021)
+* IEEE International Conference on Intelligent Transportation System (ITSC 2021)
 
 Relevant Courses
 ======
