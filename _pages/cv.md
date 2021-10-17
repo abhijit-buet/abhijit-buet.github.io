@@ -41,7 +41,7 @@ Intersections from Synthetic Data" </b>, 24th IEEE International Conference on I
     
    Here, we have tried to detect pedestrian flow in three different direction - from left to right, from right to left and combined number of pedestrian. We have compared our result with YOLO V3 as a human detector. Mean Absolute Error(MAE) and Mean Square Error(MSE) were used as evaluation metric.
    
-   <img src="https://github.com/abhijit-buet/Images/blob/main/Capture.PNG" width="360" height = "256"> </h6>
+   <img src="https://github.com/abhijit-buet/Images/blob/main/Capture.PNG" width="360" height = "256"> 
 
 
 
