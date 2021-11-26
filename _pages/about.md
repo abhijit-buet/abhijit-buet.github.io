@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Abhijit. I am actually from Bangladesh. I have completed masters of science (MSc) in Electrical Engineering from the University of Texas Rio Grande Valley. Before that, I have completed bachelor of science (BSc) in Electrical Engineering from Bangladesh University of Engineering and Technology(BUET). Currently, I am looking for Ph.D. positions.
+Hi, I am Abhijit. I am actually from Bangladesh. I have completed my masters of science (MSc) in Electrical Engineering from the University of Texas Rio Grande Valley. Previously, I earned a bachelor of science (BSc) in Electrical Engineering from Bangladesh University of Engineering and Technology (BUET).Currently, I am looking for a Ph.D. position.
 
-My research interest lies broadly in the field of Computer vision and Deep learning and their applications, e.g., BioImaging, Health Informatics, Visual Question Answering, Deep Generative Models, Human-Computer Interaction. I also have a keen interest in some Natural Language Processing problems like sentiment extraction, social media analysis, Information Retreival.
+My research interests lie broadly in the fields of computer vision and deep learning and their applications, e.g., Bioimaging, MRI reconstruction, Affect Recognition, Deep Generative Models, and Human-Computer Interaction. 
 
 
 
@@ -27,29 +27,29 @@ Education
 
 Research experience
 ======
-* Fall 2019-Spring 2020: Graduate Research Assistant
-  * University of Texas Rio Grande Valley
-  * A Deep Learning Framework for Pedestrian Flow Detection
-  * Supervisor: Dr. Hongkai Yu
-
 * Spring 2021-Present: Research Collaboration
   * University of Arkansas
   * A Kernel Low Rank Method TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI
   * Supervisor: Dr. Ukash Nakarmi
 
+* Fall 2019-Spring 2020: Graduate Research Assistant
+  * University of Texas Rio Grande Valley
+  * A Deep Learning Framework for Pedestrian Flow Detection
+  * Supervisor: Dr. Hongkai Yu
+
 Publications
 ======
-* Abhijit Baul*, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, <b>"SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI"</b>, Under Review. <b> <a href="https://drive.google.com/file/d/1cZMwD9qnPEN7KL3jXZ0UgjKqIiQAFWOU/view?usp=sharing">Paper Link</a> </b>
+* Abhijit Baul*, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, <b>"SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI"</b>, Under Review. <b> <a href="https://arxiv.org/abs/2110.08622">Paper Link</a> </b>
 
 * Abhijit Baul*, Jingru Zhang, Lingtao Wu, Hongkai Yu, Weidong Kuang, <b>"Learning to Detect Pedestrian Flow in Traffic
-Intersections from Synthetic Data" </b>, 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021), <b>Accepted</b> (h5 index - 49). <b> <a href="https://drive.google.com/file/d/12JTaBG-rgahMRnsL6DuV1MeA8U7kuP4p/view?usp=sharing">Paper Link</a> </b>
+Intersections from Synthetic Data" </b>, 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021), <b>Accepted</b> (h5 index - 49). <b> <a href="https://ieeexplore.ieee.org/abstract/document/9564853">Paper Link</a> </b>
 
 * W. Kuang, Abhijit Baul*,<b> “A Real-time Attendance System Using Deep-learning Face Recognition”</b>,
 ASEE Virtual Annual Conference Content Access, June, 2020. <b> <a href="https://peer.asee.org/a-real-time-attendance-system-using-deep-learning-face-recognition">Paper Link</a> </b>
 
 Projects
 ======
-* <b> CVPR 2021 VizWiz Challenge (Visual Question Answering and Answerability)</b>: The VQA challenge is divided into two parts - i) Predicting the answer to a visual question, ii) Predicting whether a question can be answered or not. Visual features were extracted using a pretrained ResNet-152 and Input Questions are tokenized, embedded and encoded with an LSTM.
+* <b> CVPR 2021 VizWiz Challenge (Visual Question Answering and Answerability)</b>: The VQA challenge was divided into two parts - i) Predicting the answer to a visual question, ii) Predicting whether a question can be answered or not. Visual features were extracted using a pretrained ResNet-152 and Input Questions are tokenized, embedded and encoded with an LSTM.
 Visual features and encoded questions awere combined and used to create multiple attention maps over image features. The attended image features were fed to a classifier that outputs probabilities over the answers. The submission ranked 5th in the leaderboard. <b> <a href="https://github.com/abhijit-buet/VizWiz-Visua-Question-Answering-2021">Project Link</a> </b>
 
 
@@ -68,7 +68,7 @@ on the Leaderboard). <b> <a href="https://github.com/abhijit-buet/Tweet-Sentimen
 The dataset contains 600 nuclei images for training. Trained a pre-trained U-NET and achieved a mean
 IOU(intersection over union) of 0.52(Top 25%). <b> <a href="https://github.com/abhijit-buet/Nuclei-segmentation-from-microscopic-images">Project Link</a> </b>
 
-* <b> Gesture Controlled Wheelchair </b>: We have created a Gesture Controlled Wheelchair that uses accelerometer to sense the movement direction from the hand of a disabled person. The signal was transmitted and received by a RF-pair transmitter-receiver and the wheelchair was controlled by an arduino according to the movement.
+* <b> Gesture Controlled Wheelchair </b>: We have built a Gesture Controlled Wheelchair that uses accelerometer to sense the movement direction from the hand of a disabled person. The signal was transmitted and received by a RF-pair transmitter-receiver and the wheelchair was controlled by an arduino according to the movement.
 
 
 Professional Experience
@@ -89,7 +89,7 @@ Skills
 
 Review
 ======
-* IEEE International Conference on Intelligent Transportation System (ITSC 2021)
+* IEEE International Intelligent Transportation Systems Conference (ITSC 2021)
 
 Relevant Courses
 ======
