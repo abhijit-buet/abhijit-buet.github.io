@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Abhijit. I am actually from Bangladesh. I have completed my masters of science (MSc) in Electrical Engineering from the University of Texas Rio Grande Valley. Previously, I earned a bachelor of science (BSc) in Electrical Engineering from Bangladesh University of Engineering and Technology (BUET).Currently, I am looking for a Ph.D. position.
+Hi, I am Abhijit. I am a Ph.D. candidate at Purdue University, advised by Dr. Jing Gao. My research is focused on developing Deep Learning algorithms for Cross-lingual Understanding, Natural Language Processing, Data Mining and closely aligned fields.
 
-My research interests lie broadly in the fields of computer vision and deep learning and their applications, e.g., Bioimaging, MRI reconstruction, Affect Recognition, Deep Generative Models, and Human-Computer Interaction. 
+I have completed my masters of science (MSc) in Electrical Engineering from the University of Texas Rio Grande Valley. Previously, I earned a bachelor of science (BSc) in Electrical Engineering from Bangladesh University of Engineering and Technology (BUET).
+
 
 
 
 Education
 ======
+* Purdue University, 2022-2026\
+    Ph.D. in Computer Engineering
+    
+
 * University of Texas Rio Grande Valley, 2019-2021\
     M.Sc in Electrical Engineering
     
@@ -39,8 +44,6 @@ Research experience
 
 Publications
 ======
-* Abhijit Baul*, Nian Wang, Choyi Zhang, Leslie Ying, Ukash Nakarmi, <b>"SELF-LEARNED KERNEL LOW RANK APPROACH TO ACCELERATED HIGH RESOLUTION 3D DIFFUSION MRI"</b>, Under Review. <b> <a href="https://arxiv.org/abs/2110.08622">Paper Link</a> </b>
-
 * Abhijit Baul*, Jingru Zhang, Lingtao Wu, Hongkai Yu, Weidong Kuang, <b>"Learning to Detect Pedestrian Flow in Traffic
 Intersections from Synthetic Data" </b>, 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021), <b>Accepted</b> (h5 index - 49). <b> <a href="https://ieeexplore.ieee.org/abstract/document/9564853">Paper Link</a> </b>
 
